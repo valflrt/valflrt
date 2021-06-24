@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-no.
+
+![nya?](https://media1.giphy.com/media/GAFd7zecFb6Ss/100.gif?cid=975d3e3893dfcf62d2edf4808f4666d9d02feda980e4d699&rid=100.gif&ct=g)
