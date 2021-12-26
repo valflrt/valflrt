@@ -1,7 +1,5 @@
-<img src="./tsumiki.gif"
+<img src="https://cdn.discordapp.com/emojis/706673963597692958.gif?v=1&size=96"
      alt="tsumiki"
-     title="nya?"
-     width="128"
+     title="aaaah"
+     width="96"
 />
-
-*Don't mind me*
