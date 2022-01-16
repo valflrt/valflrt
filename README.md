@@ -1,5 +1,4 @@
-<img src="./706673963597692958.gif"
-     alt="tsumiki"
+<img src="./20211206_104409-01.jpeg"
      title="aaaah"
-     width="96"
+     width="256"
 />
