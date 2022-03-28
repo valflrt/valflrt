@@ -1,6 +1,8 @@
 ```typescript
 let valflrt = new Person({
   pseudo: "valflrt",
+  firstName: "Valentin",
+  lastName: "Fleurit",
   age: 17,
   pronouns: "he/him",
   about: "A programming and self deprecation enthusiast",
