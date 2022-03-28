@@ -10,8 +10,15 @@ let valflrt = new Person({
 });
 ```
 
-<img src="./20220108_144430_edited.jpeg"
-  title="help"
-  width="256"
-  style="border-radius: 6px"
-/>
+<style>
+  .wtf-im-doing img {
+    border-radius: 6px;
+  }
+</style>
+
+<span class="wtf-im-doing">
+  <img src="./20220108_144430_edited.jpeg"
+    title="help"
+    width="256"
+  />
+</span>
