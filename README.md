@@ -11,7 +11,9 @@ let valflrt = new Person({
 ```
 
 <img src="./20220108_144430_edited.jpeg"
+  title="relatable"
+  height="192"
+/> <img src="./840488386469167106.gif"
   title="help"
-  width="256"
-  style="border-radius: 6px"
+  height="192"
 />
