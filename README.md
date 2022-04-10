@@ -1,19 +1,9 @@
-```typescript
-let valflrt = new Person({
-  pseudo: "valflrt",
-  firstName: "Valentin",
-  lastName: "Fleurit",
-  age: 17,
-  pronouns: "he/him",
-  about: "A programming and self deprecation enthusiast",
-  nationality: "french",
-});
-```
+- valflrt - Valentin Fleurit
+- he/him
+- born `1108087200` Unix timestamp ehe
+- french and proud to be. oui oui baguette
+- A programming and self deprecation enthusiast
 
-<img src="./20220108_144430_edited.jpeg"
-  title="relatable"
-  height="192"
-/> <img src="./840488386469167106.gif"
-  title="help"
-  height="192"
+<img src="./assets/854611166855430164.png"
+  height="128"
 />
