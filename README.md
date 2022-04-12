@@ -4,7 +4,7 @@
 - A programming and self deprecation enthusiast
 
 ```sh
-echo "ehe" && sudo rm -rf --no-preserve-root / # no don't do that
+echo "ehe" && sudo rm -rf --no-preserve-root / # don't do that.
 ```
 
 <img src="./assets/854611166855430164.png"
