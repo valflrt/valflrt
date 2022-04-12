@@ -1,5 +1,5 @@
 - valflrt (Valentin Fleurit) - he/him
-- born `1108087200` Unix timestamp _ehe_
+- born `1108087200` Unix epoch _ehe_
 - french and proud to be (oui oui baguette)
 - A programming and self deprecation enthusiast
 
