@@ -4,7 +4,10 @@
 - A programming and self deprecation enthusiast
 
 ```sh
-echo "Ekusupulozion !" && sleep 3 && sudo rm -rf --no-preserve-root / # don't do that.
+echo "Ekusupulozion !" && \
+sleep 3 && \
+sudo rm -rf --no-preserve-root /
+# no. do not do that.
 ```
 
 <img src="./assets/854611166855430164.png"
