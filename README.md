@@ -1,7 +1,7 @@
 - valflrt (Valentin Fleurit) - he/him - https://valflrt.dev
 - born `1108087200` (Unix epoch)
 - french and proud to be (oui oui baguette)
-- A programming and self deprecation enthusiast
+- A programming enthusiast
 - I like typescript
 
 ```sh
