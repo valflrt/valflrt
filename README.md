@@ -7,6 +7,10 @@
 echo "ehe" && sudo rm -rf --no-preserve-root / # don't do that.
 ```
 
-<img src="./assets/854611166855430164.png"
-  height="128"
-/>
+<br />
+
+<p align="center">
+  <img src="./assets/840488386469167106.gif"
+    height="96"
+  />
+</p>
