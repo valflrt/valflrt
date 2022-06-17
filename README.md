@@ -13,10 +13,6 @@ sudo rm -rf --no-preserve-root /
 
 <br />
 
-<p align="center">
-  <img src="./assets/840488386469167106.gif"
-    height="96"
-  />
-</p>
-
-<br />
+<img src="./assets/840488386469167106.gif"
+  height="96"
+/>
