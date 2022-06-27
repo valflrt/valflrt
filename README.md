@@ -11,6 +11,8 @@
 
 <br />
 
-<img src="./assets/840488386469167106.gif"
+<img src="./assets/change-my-mind.jpg" height="360px">
+
+<!--<img src="./assets/840488386469167106.gif"
   height="96"
-/>
+/> -->
