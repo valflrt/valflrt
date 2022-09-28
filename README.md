@@ -2,7 +2,7 @@
 - programming enthusiast
 - born `1108087200` (Unix epoch)
 - french and proud to be (oui oui baguette)
-- I like using typescript but would like to try something new too...
+- Trying to switch from Typescript to Rust...
 
 ```sh
 # hey run this in your terminal ;)
