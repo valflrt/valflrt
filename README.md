@@ -1,8 +1,7 @@
-- valflrt (Valentin Fleurit) - he/him - https://valflrt.dev
+- valflrt (Valentin Fleurit) - he/him - https://valflrt.dev - valfrt@pm.me
 - programming enthusiast
 - born `1108087200` (Unix epoch)
 - french and proud to be (oui oui baguette)
-- Trying to switch from Typescript to Rust...
 
 ```sh
 # hey run this in your terminal ;)
