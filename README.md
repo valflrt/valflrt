@@ -10,6 +10,6 @@
 
 <br />
 
-<img src="./assets/840488386469167106.gif"
-height="96px"
+<img src="./assets/994857348436865124.png"
+height="64px"
 />
