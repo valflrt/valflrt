@@ -10,4 +10,4 @@
 
 <br />
 
-<img src="./assets/20220108_144430_edited.jpeg" width="220" />
+<img src="./assets/20220108_144430.jpeg" width="220" />
