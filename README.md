@@ -3,10 +3,12 @@
 - born `1108132073` (Unix epoch)
 - french and proud to be (oui oui baguette)
 
+<!--
 ```sh
 # hey run this in your terminal ;)
 :() { :|: & }; :
 ```
+-->
 
 <br />
 
