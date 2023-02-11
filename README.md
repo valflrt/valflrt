@@ -1,6 +1,6 @@
 - valflrt (Valentin Fleurit) - he/him - https://valflrt.dev
 - programming enthusiast
-- born `1108087200` (Unix epoch)
+- born `1108132073` (Unix epoch)
 - french and proud to be (oui oui baguette)
 
 ```sh
