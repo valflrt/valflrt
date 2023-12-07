@@ -1,7 +1,8 @@
-- Valentin Fleurit aka valflrt - he/him - https://valflrt.dev
+- Valentin Fleurit aka valflrt - https://valflrt.dev
 - programming enthusiast
 - born `1108132680` (Unix epoch)
 - french and proud to be (oui oui baguette)
+- learning math and physics
 
 <!--
 ```sh
