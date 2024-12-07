@@ -1,4 +1,4 @@
-- **valflrt** (real name: Valentin Fleurit)
+- **valflrt** (real name: Valentin Fleurit, mail: valflrt@pm.me)
 - **Code craftsman in training**, still figuring out how to avoid bugs (that said, they make webs everywhere)
 - **Math and Physics wizard in progress**, pretending to understand everything, one equation at a time
 - **Outdoor enthusiast**, I really like hiking, sailing and swimming
