@@ -1,3 +1,3 @@
 - Valentin Fleurit aka valflrt - mail: valflrt@pm.me
 - programming enthusiast
-- math+physics wizard in training
+- Math+Physics wizard in training
