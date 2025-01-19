@@ -1,3 +1,4 @@
 - Valentin Fleurit aka valflrt - mail: valflrt@pm.me
 - programming enthusiast
-- Math+Physics wizard in training
+- Math+Physics wizard in training (CPGE)
+- french and proud to be
