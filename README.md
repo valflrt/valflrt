@@ -1,4 +1,3 @@
 - Valentin Fleurit / valflrt
 - programming enthusiast
 - Math+Physics wizard in training... (in CPGE)
-- french and proud to be
