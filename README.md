@@ -1,5 +1,5 @@
 about me:
-- Valentin Fleurit / valflrt
+- name is Valentin Fleurit
 - programming enthusiast
 - Math+Physics wizard in training... (in CPGE)
 
