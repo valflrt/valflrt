@@ -5,7 +5,7 @@ about me:
 
 my favorite projects:
 - [smarticles-fork](https://github.com/valflrt/smarticles-fork) – A particle simulation program
-- [fractal_renderer](https://github.com/valflrt/fractal_renderer) – A fractal renderer (sorry misleading name)
+- [fractal_renderer](https://github.com/valflrt/fractal_renderer) – A fractal renderer (misleading name sorry)
 - [v2.valflrt.dev](https://github.com/valflrt/v2.valflrt.dev) – My website made from scratch with typescript built using Vite
 - [image_art](https://github.com/valflrt/image_art) – Some image experiments...
 - [omega_mandelbrot](https://github.com/valflrt/omega_mandelbrot) – A mandelbrot app for omega the numworks calculator
