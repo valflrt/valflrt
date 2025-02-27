@@ -1,7 +1,9 @@
 about me:
 - name is Valentin Fleurit
 - programming enthusiast
+- I like harsh-melodic music, hiking, sailing, swimming, ...
 - Math+Physics wizard in training... (in CPGE)
+- Please take care of the Earth
 
 my favorite projects:
 - [**smarticles-fork**](https://github.com/valflrt/smarticles-fork) – A particle simulation program
