@@ -1,7 +1,7 @@
 about me:
 - name is Valentin Fleurit
 - programming enthusiast
-- I like harsh-melodic music, hiking, sailing, swimming, ...
+- I like harsh-melodic music, hiking, sailing, swimming
 - Math+Physics wizard in training... (in CPGE)
 - Please take care of the Earth
 
