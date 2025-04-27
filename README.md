@@ -8,7 +8,7 @@ about me:
 my favorite projects:
 - [**smarticles-fork**](https://github.com/valflrt/smarticles-fork) – A particle simulation program
 - [**fractal_rndr**](https://github.com/valflrt/fractal_rndr) – A fractal renderer
-- [**v2.valflrt.dev**](https://github.com/valflrt/v2.valflrt.dev) – My website made from scratch in pure html+js+css _(dom dark magic inside)_
+- [**v2.valflrt.dev**](https://github.com/valflrt/v2.valflrt.dev) – My website made from scratch in pure html+js+css _(very dark js magic inside)_
 - [**omega_mandelbrot**](https://github.com/valflrt/omega_mandelbrot) – A mandelbrot app for omega on the numworks calculator
 - [**brainf-ck-rs**](https://github.com/valflrt/brainf-ck-rs) – A brainf*ck interpreter with a visualizer
 - [**image_art**](https://github.com/valflrt/image_art) – Some image experiments...
