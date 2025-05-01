@@ -1,4 +1,4 @@
-**I switched to [gitlab](https://gitlab.com/valflrt)**
+**I recently switched to [gitlab](https://gitlab.com/valflrt)**
 
 about me:
 - name is Valentin Fleurit
