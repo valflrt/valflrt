@@ -2,7 +2,7 @@ about me:
 - name is Valentin Fleurit
 - programming enthusiast
 - I like harsh-melodic music, hiking, sailing, swimming
-- Math+Physics wizard in training... (in CPGE)
+- Math+Physics wizard ?
 - please take care of the Earth
 
 my favorite projects:
