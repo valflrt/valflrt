@@ -1,11 +1,13 @@
-about me:
+[website](https://valflrt.dev) &nbsp;–&nbsp; [gitlab](https://gitlab.com/valflrt) &nbsp;–&nbsp; [github](https://github.com/valflrt) &nbsp;–&nbsp; [ai safety](https://ai-safety.valflrt.dev)
+
+about me :
 - name is Valentin Fleurit
 - programming enthusiast
 - I like harsh-melodic music, hiking, sailing, swimming
 - Math+Physics wizard ?
 - please take care of the Earth
 
-my favorite projects:
+my favorite projects :
 - [**smarticles-fork**](https://gitlab.com/valflrt/smarticles-fork) – A particle simulation program
 - [**fractal_rndr**](https://gitlab.com/valflrt/fractal_rndr) – A fractal renderer
 - [**v2.valflrt.dev**](https://gitlab.com/valflrt/v2-valflrt-dev) – My website made from scratch in pure html+js+css _(very dark js magic inside)_
