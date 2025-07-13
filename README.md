@@ -1,4 +1,4 @@
-[website](https://valflrt.dev) &nbsp;–&nbsp; [gitlab](https://gitlab.com/valflrt) &nbsp;–&nbsp; [github](https://github.com/valflrt) &nbsp;–&nbsp; [ai safety](https://ai-safety.valflrt.dev)
+[website](https://valflrt.dev) &nbsp;–&nbsp; [gitlab](https://gitlab.com/valflrt) &nbsp;–&nbsp; [github](https://github.com/valflrt) &nbsp;–&nbsp; [ai safety](https://ai-safety.valflrt.dev) &nbsp;–&nbsp; [art ?](https://art.valflrt.dev)
 
 about me :
 - name is Valentin Fleurit
