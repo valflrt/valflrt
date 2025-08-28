@@ -1,11 +1,12 @@
 [website](https://valflrt.dev) &nbsp;–&nbsp; [gitlab](https://gitlab.com/valflrt) &nbsp;–&nbsp; [github](https://github.com/valflrt) &nbsp;–&nbsp; [ai safety](https://ai-safety.valflrt.dev) &nbsp;–&nbsp; [art ?](https://art.valflrt.dev)
 
 about me :
-- name is Valentin Fleurit
-- programming enthusiast
-- I like harsh-melodic music, hiking, sailing, swimming
-- Math+Physics wizard ?
-- please take care of the Earth
+- my name is **Valentin Fleurit**
+- programming enthusiast interested in **rendering** and **simulations**
+- I like **hiking**, **sailing**, **swimming**, **harsh-melodic music**
+- took a 2-year **Math+Physics wizardry course** in prépa ?
+- now studying at ENM to become a **meteorological engineer at Météo-France**
+- *please take care of the Earth*
 
 my favorite projects :
 - [**smarticles-fork**](https://gitlab.com/valflrt/smarticles-fork) – A particle simulation program
