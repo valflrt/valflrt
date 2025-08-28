@@ -1,12 +1,4 @@
-[portfolio](https://pf.valflrt.dev) &nbsp;–&nbsp; [website](https://valflrt.dev) &nbsp;–&nbsp; [gitlab](https://gitlab.com/valflrt) &nbsp;–&nbsp; [github](https://github.com/valflrt) &nbsp;–&nbsp; [ai safety](https://ai-safety.valflrt.dev)
-
-about me :
-- my name is **Valentin Fleurit**
-- programming enthusiast interested in **rendering** and **simulations**
-- I like **hiking**, **sailing**, **swimming**, **harsh-melodic music**
-- took a 2-year **Math+Physics wizardry course** in prépa ?
-- now studying at ENM to become a **meteorological engineer at Météo-France**
-- *please take care of the Earth*
+[portfolio](https://pf.valflrt.dev) &nbsp;–&nbsp; [website](https://valflrt.dev) &nbsp;–&nbsp; [gitlab](https://gitlab.com/valflrt) &nbsp;–&nbsp; [github](https://github.com/valflrt)
 
 my favorite projects :
 - [**fractal_rndr**](https://gitlab.com/valflrt/fractal_rndr) – A fractal renderer
