@@ -5,6 +5,7 @@ my favorite projects :
 - [**smarticles-fork**](https://gitlab.com/valflrt/smarticles-fork) – A particle simulation program
 - [**v2.valflrt.dev**](https://gitlab.com/valflrt/v2-valflrt-dev) – My website made from scratch in pure html+js+css _(very dark js magic inside)_
 - [**brainf-ck-rs**](https://gitlab.com/valflrt/brainf-ck-rs) – A brainf*ck interpreter with a visualizer
+- [**tictacs**](https://gitlab.com/valflrt/tictacs) – An unreasonably simple static site generator
 - [**michelson_sim**](https://gitlab.com/valflrt/michelson_sim) – A Michelson interferometer simulator
 - [**cellular_automata**](https://gitlab.com/valflrt/cellular_automata) – A tiny collection of glsl cellular automata
 - [**image_art**](https://gitlab.com/valflrt/image_art) – Some image experiments...
