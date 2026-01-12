@@ -3,6 +3,7 @@
 my favorite projects :
 - [**fractal_rndr**](https://gitlab.com/valflrt/fractal_rndr) – a fractal renderer
 - [**smarticles-fork**](https://gitlab.com/valflrt/smarticles-fork) – a particle simulation program
+- [**ray_tracer_rs**](https://gitlab.com/valflrt/ray_tracer_rs) – A simple ray tracer with sdf support
 - [**www.valflrt.dev**](https://gitlab.com/valflrt/www-valflrt-dev) – my website made from scratch in pure html+js+css _(very dark js magic inside)_
 - [**brainf-ck-rs**](https://gitlab.com/valflrt/brainf-ck-rs) – a brainf*ck interpreter with a visualizer
 - [**tictacs**](https://gitlab.com/valflrt/tictacs) – an unreasonably simple static site generator
