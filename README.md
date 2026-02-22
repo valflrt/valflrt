@@ -9,7 +9,7 @@ my favorite projects :
 - [**tictacs**](https://gitlab.com/valflrt/tictacs) – an unreasonably simple static site generator
 - [**michelson_sim**](https://gitlab.com/valflrt/michelson_sim) – a Michelson interferometer simulator
 - [**cellular_automata**](https://gitlab.com/valflrt/cellular_automata) – a tiny collection of glsl cellular automata
-- [**image_art**](https://gitlab.com/valflrt/image_art) – some image experiments...
+- [**img_exps**](https://gitlab.com/valflrt/img_exps) – some image experiments...
 - [**omega_mandelbrot**](https://gitlab.com/valflrt/omega_mandelbrot) – a mandelbrot app for omega on the numworks calculator
 - [**shosha256**](https://gitlab.com/valflrt/shosha256) – a tiny sha256 hash previewer
 - [**fencryption**](https://gitlab.com/valflrt/fencryption) – a program to encrypt/decrypt directories (development stopped)
